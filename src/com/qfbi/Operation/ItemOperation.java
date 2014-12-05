@@ -84,7 +84,6 @@ public class ItemOperation {
 			}
 			// Break condition: No hits are returned
 			if (scrollResp.getHits().getHits().length == 0) {
-
 				break;
 			}
 		}
