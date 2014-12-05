@@ -90,6 +90,9 @@ public class ItemOperation {
 		return jsonArray;
 	}
 	
+	public static void insert(){
+		
+	}
 	public static void close() {
 		client.close();
 	}
